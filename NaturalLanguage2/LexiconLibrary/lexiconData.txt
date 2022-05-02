@@ -1,0 +1,157 @@
+what
+WH_PRONOUN
+	NUM
+		3s
+		3p
+---
+Mary
+NAME
+---
+Bob
+NAME
+---
+did
+DO
+	TENSE
+		past
+	NUM
+		1s
+		1p
+		2s
+		2p
+		3s
+		3p
+VERB
+	VERB
+		do
+	TYPE
+		transitive
+		bitransitive
+	TENSE
+		past
+	NUM
+		1s
+		1p
+		2s
+		2p
+		3s
+		3p
+---
+new
+ADJECTIVE
+	ADJECTIVE
+		new
+---
+walks
+VERB
+	VERB
+		walk
+	TENSE
+		present
+	NUM
+		3s
+---
+walked
+VERB
+	VERB
+		walk
+	TENSE
+		past
+	NUM
+		1s
+		1p
+		2s
+		2p
+		3s
+		3p
+---
+give
+VERB
+	VERB
+		give
+	TYPE
+		transitive
+		bitransitive
+	TENSE
+		infinitive
+		present
+	NUM
+		1s
+		1p
+		2s
+		2p
+		3s
+		3p
+---
+gave
+VERB
+	VERB
+		give
+	TYPE
+		transitive
+		bitransitive
+	TENSE
+		past
+	NUM
+		1s
+		1p
+		2s
+		2p
+		3s
+		3p
+---
+me
+PRONOUN
+	NUM
+		1s
+---
+a
+ARTICLE
+	NUM
+		3s
+---
+the
+ARTICLE
+	NUM
+		3s
+		3p
+---
+her
+ARTICLE
+	ROOT
+		she
+	NUM
+		3s
+		3p
+---
+picture
+NOUN
+	NOUN
+		picture
+	NUM
+		3s
+---
+man
+NOUN
+	NOUN
+		man
+	NUM
+		3s
+---
+dreams
+NOUN
+	NOUN
+		dream
+	NUM
+		3p
+---
+boat
+NOUN
+	NOUN
+		boat
+	NUM
+		3s
+---
+of
+PREPOSITION
+---
